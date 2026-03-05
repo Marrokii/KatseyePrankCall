@@ -1,0 +1,70 @@
+{
+  "characters": [
+    {
+      "id": "1",
+      "name": "Sophia",
+      "thumbnailImageUrl": "https://blogger.googleusercontent.com/img/a/AVvXsEg9QEwIj1N2HHXz3akROJQY-mmcOq8gtSn5mS_SjS-brbwk9W_5qfRpwQouPRCNSvQ34eateUZwTfCR4blDxEscj20dW13xmjXxa2fv_ZPQCLpBbcTmAtFlmK8HnBUeqx7MhUYLawQisinYxTajrIMzLLjwUaytDeVofefxqZb4sheWc_41KDxlRbxMnj9t",
+      "incomingBackgroundUrl": "https://blogger.googleusercontent.com/img/a/AVvXsEg9QEwIj1N2HHXz3akROJQY-mmcOq8gtSn5mS_SjS-brbwk9W_5qfRpwQouPRCNSvQ34eateUZwTfCR4blDxEscj20dW13xmjXxa2fv_ZPQCLpBbcTmAtFlmK8HnBUeqx7MhUYLawQisinYxTajrIMzLLjwUaytDeVofefxqZb4sheWc_41KDxlRbxMnj9t",
+      "videoUrl": "https://raw.githubusercontent.com/Marrokii/KatseyePrankCall/main/VideoKatseye.mp4",
+      "voiceBackgroundImageUrl": "https://blogger.googleusercontent.com/img/a/AVvXsEg9QEwIj1N2HHXz3akROJQY-mmcOq8gtSn5mS_SjS-brbwk9W_5qfRpwQouPRCNSvQ34eateUZwTfCR4blDxEscj20dW13xmjXxa2fv_ZPQCLpBbcTmAtFlmK8HnBUeqx7MhUYLawQisinYxTajrIMzLLjwUaytDeVofefxqZb4sheWc_41KDxlRbxMnj9t",
+      "ringtoneUrl": "https://raw.githubusercontent.com/Marrokii/KatseyePrankCall/main/PhoneRigning.mp3",
+      "voiceCallAudioUrl": "https://raw.githubusercontent.com/Marrokii/KatseyePrankCall/main/KatseyeVoiceCall.mp3",
+      "messageToneUrl": "https://raw.githubusercontent.com/Marrokii/KatseyePrankCall/main/MessageTone.mp3"
+    },
+    {
+      "id": "2",
+      "name": "Lara",
+      "thumbnailImageUrl": "https://blogger.googleusercontent.com/img/a/AVvXsEh6IQw2dhuBsu8WP1g4zuvtryB9KJanBWwDahOL7bQfjS2FKnP9qW7UIEQQExdoRznJZdyZsdxgws7DmMc3EJJVp8j857OqfhL2DRasIXfmZD0pPhHBhYlPmCbkj863JXl5BvFrrKqliIKlzjALcLDWqX9lOkLXX8xc-TKi43K1Twcy7IXnFhe11e_p4jTA",
+      "incomingBackgroundUrl": "https://blogger.googleusercontent.com/img/a/AVvXsEh6IQw2dhuBsu8WP1g4zuvtryB9KJanBWwDahOL7bQfjS2FKnP9qW7UIEQQExdoRznJZdyZsdxgws7DmMc3EJJVp8j857OqfhL2DRasIXfmZD0pPhHBhYlPmCbkj863JXl5BvFrrKqliIKlzjALcLDWqX9lOkLXX8xc-TKi43K1Twcy7IXnFhe11e_p4jTA",
+      "videoUrl": "https://raw.githubusercontent.com/Marrokii/KatseyePrankCall/main/VideoKatseye.mp4",
+      "voiceBackgroundImageUrl": "https://blogger.googleusercontent.com/img/a/AVvXsEh6IQw2dhuBsu8WP1g4zuvtryB9KJanBWwDahOL7bQfjS2FKnP9qW7UIEQQExdoRznJZdyZsdxgws7DmMc3EJJVp8j857OqfhL2DRasIXfmZD0pPhHBhYlPmCbkj863JXl5BvFrrKqliIKlzjALcLDWqX9lOkLXX8xc-TKi43K1Twcy7IXnFhe11e_p4jTA",
+      "ringtoneUrl": "https://raw.githubusercontent.com/Marrokii/KatseyePrankCall/main/PhoneRigning.mp3",
+      "voiceCallAudioUrl": "https://raw.githubusercontent.com/Marrokii/KatseyePrankCall/main/KatseyeVoiceCall.mp3",
+      "messageToneUrl": "https://raw.githubusercontent.com/Marrokii/KatseyePrankCall/main/MessageTone.mp3"
+    },
+    {
+      "id": "3",
+      "name": "Daniela",
+      "thumbnailImageUrl": "https://blogger.googleusercontent.com/img/a/AVvXsEj7yyA0EkWDWP-m3qUI59ViCawZsb7wZb-l9-LB_lkqaE_nkfXfZ56gcmswjWPfM2LlC2o2c7aqBAmuR-zYqpAGcA378MRMUVS1rEW8KmKP4SOHyxQIB3YYBTONGWTqQp9M6YxSfz0uBy9Q7ZyENGFyjLEfQEDVqJAkEte46D0iqfyDOBX2b4yo39p6IQby",
+      "incomingBackgroundUrl": "https://blogger.googleusercontent.com/img/a/AVvXsEj7yyA0EkWDWP-m3qUI59ViCawZsb7wZb-l9-LB_lkqaE_nkfXfZ56gcmswjWPfM2LlC2o2c7aqBAmuR-zYqpAGcA378MRMUVS1rEW8KmKP4SOHyxQIB3YYBTONGWTqQp9M6YxSfz0uBy9Q7ZyENGFyjLEfQEDVqJAkEte46D0iqfyDOBX2b4yo39p6IQby",
+      "videoUrl": "https://raw.githubusercontent.com/Marrokii/KatseyePrankCall/main/VideoKatseye.mp4",
+      "voiceBackgroundImageUrl": "https://blogger.googleusercontent.com/img/a/AVvXsEj7yyA0EkWDWP-m3qUI59ViCawZsb7wZb-l9-LB_lkqaE_nkfXfZ56gcmswjWPfM2LlC2o2c7aqBAmuR-zYqpAGcA378MRMUVS1rEW8KmKP4SOHyxQIB3YYBTONGWTqQp9M6YxSfz0uBy9Q7ZyENGFyjLEfQEDVqJAkEte46D0iqfyDOBX2b4yo39p6IQby",
+      "ringtoneUrl": "https://raw.githubusercontent.com/Marrokii/KatseyePrankCall/main/PhoneRigning.mp3",
+      "voiceCallAudioUrl": "https://raw.githubusercontent.com/Marrokii/KatseyePrankCall/main/KatseyeVoiceCall.mp3",
+      "messageToneUrl": "https://raw.githubusercontent.com/Marrokii/KatseyePrankCall/main/MessageTone.mp3"
+    },
+    {
+      "id": "4",
+      "name": "Megan",
+      "thumbnailImageUrl": "https://blogger.googleusercontent.com/img/a/AVvXsEhMZ0wNNJ-amW4bIFBfWPIGrMBZfs8lpcKN0Mslb68DkaUr1OLEQluNKtOfRliwqsNBf6-1HHp3gJW4cX1MmaJjejuICQ_NU20_hcJEgtTpf6EQg7nXwXeYO-ljj50OW2bNvgEnUhzgE60FegHyAsgWf6DpuFnC1gl5TDhQPnEFeebvDGHvhVjNQ6d5hK-m",
+      "incomingBackgroundUrl": "https://blogger.googleusercontent.com/img/a/AVvXsEhMZ0wNNJ-amW4bIFBfWPIGrMBZfs8lpcKN0Mslb68DkaUr1OLEQluNKtOfRliwqsNBf6-1HHp3gJW4cX1MmaJjejuICQ_NU20_hcJEgtTpf6EQg7nXwXeYO-ljj50OW2bNvgEnUhzgE60FegHyAsgWf6DpuFnC1gl5TDhQPnEFeebvDGHvhVjNQ6d5hK-m",
+      "videoUrl": "https://raw.githubusercontent.com/Marrokii/KatseyePrankCall/main/VideoKatseye.mp4",
+      "voiceBackgroundImageUrl": "https://blogger.googleusercontent.com/img/a/AVvXsEhMZ0wNNJ-amW4bIFBfWPIGrMBZfs8lpcKN0Mslb68DkaUr1OLEQluNKtOfRliwqsNBf6-1HHp3gJW4cX1MmaJjejuICQ_NU20_hcJEgtTpf6EQg7nXwXeYO-ljj50OW2bNvgEnUhzgE60FegHyAsgWf6DpuFnC1gl5TDhQPnEFeebvDGHvhVjNQ6d5hK-m",
+      "ringtoneUrl": "https://raw.githubusercontent.com/Marrokii/KatseyePrankCall/main/PhoneRigning.mp3",
+      "voiceCallAudioUrl": "https://raw.githubusercontent.com/Marrokii/KatseyePrankCall/main/KatseyeVoiceCall.mp3",
+      "messageToneUrl": "https://raw.githubusercontent.com/Marrokii/KatseyePrankCall/main/MessageTone.mp3"
+    },
+    {
+      "id": "5",
+      "name": "Manon",
+      "thumbnailImageUrl": "https://blogger.googleusercontent.com/img/a/AVvXsEjAvu08qlp_7kT5_2KCMWztpReZD8BwlBd395dNya7Xb8nsIdRA1jKeMmNVvBfavwWt6lByPVtXopqzaZxO862b-SpDoGhmKxq_jf82JBo2Hmvk-WG8NoXqdpuNMy0fXpnNCwulxngIkbqXcT_2-FeaH3d_hHEEMKrUhsfKcP3PCWemUVozX1mzcs3c4Rap",
+      "incomingBackgroundUrl": "https://blogger.googleusercontent.com/img/a/AVvXsEjAvu08qlp_7kT5_2KCMWztpReZD8BwlBd395dNya7Xb8nsIdRA1jKeMmNVvBfavwWt6lByPVtXopqzaZxO862b-SpDoGhmKxq_jf82JBo2Hmvk-WG8NoXqdpuNMy0fXpnNCwulxngIkbqXcT_2-FeaH3d_hHEEMKrUhsfKcP3PCWemUVozX1mzcs3c4Rap",
+      "videoUrl": "https://raw.githubusercontent.com/Marrokii/KatseyePrankCall/main/VideoKatseye.mp4",
+      "voiceBackgroundImageUrl": "https://blogger.googleusercontent.com/img/a/AVvXsEjAvu08qlp_7kT5_2KCMWztpReZD8BwlBd395dNya7Xb8nsIdRA1jKeMmNVvBfavwWt6lByPVtXopqzaZxO862b-SpDoGhmKxq_jf82JBo2Hmvk-WG8NoXqdpuNMy0fXpnNCwulxngIkbqXcT_2-FeaH3d_hHEEMKrUhsfKcP3PCWemUVozX1mzcs3c4Rap",
+      "ringtoneUrl": "https://raw.githubusercontent.com/Marrokii/KatseyePrankCall/main/PhoneRigning.mp3",
+      "voiceCallAudioUrl": "https://raw.githubusercontent.com/Marrokii/KatseyePrankCall/main/KatseyeVoiceCall.mp3",
+      "messageToneUrl": "https://raw.githubusercontent.com/Marrokii/KatseyePrankCall/main/MessageTone.mp3"
+    },
+    {
+      "id": "6",
+      "name": "Yoonchae",
+      "thumbnailImageUrl": "https://blogger.googleusercontent.com/img/a/AVvXsEi3lFqSR6TMnkJF6CdKRlUSX2p3edxkeGQf1CqF5QXNsSgBUdNbOPG7-rcr5TZIPb6lPNw_egM1K8tkojXlFzRr7KBWP6xOBNDWG_4lFMCfg1JV-81p-448bITyjkbnRNshBCKNkOEmLjPRIkezpxW6Lg8OZarwkMWvTYxKewyjRUeEj4PDzq_KMnNUNBsl",
+      "incomingBackgroundUrl": "https://blogger.googleusercontent.com/img/a/AVvXsEi3lFqSR6TMnkJF6CdKRlUSX2p3edxkeGQf1CqF5QXNsSgBUdNbOPG7-rcr5TZIPb6lPNw_egM1K8tkojXlFzRr7KBWP6xOBNDWG_4lFMCfg1JV-81p-448bITyjkbnRNshBCKNkOEmLjPRIkezpxW6Lg8OZarwkMWvTYxKewyjRUeEj4PDzq_KMnNUNBsl",
+      "videoUrl": "https://raw.githubusercontent.com/Marrokii/KatseyePrankCall/main/VideoKatseye.mp4",
+      "voiceBackgroundImageUrl": "https://blogger.googleusercontent.com/img/a/AVvXsEi3lFqSR6TMnkJF6CdKRlUSX2p3edxkeGQf1CqF5QXNsSgBUdNbOPG7-rcr5TZIPb6lPNw_egM1K8tkojXlFzRr7KBWP6xOBNDWG_4lFMCfg1JV-81p-448bITyjkbnRNshBCKNkOEmLjPRIkezpxW6Lg8OZarwkMWvTYxKewyjRUeEj4PDzq_KMnNUNBsl",
+      "ringtoneUrl": "https://raw.githubusercontent.com/Marrokii/KatseyePrankCall/main/PhoneRigning.mp3",
+      "voiceCallAudioUrl": "https://raw.githubusercontent.com/Marrokii/KatseyePrankCall/main/KatseyeVoiceCall.mp3",
+      "messageToneUrl": "https://raw.githubusercontent.com/Marrokii/KatseyePrankCall/main/MessageTone.mp3"
+    }
+  ]
+}
